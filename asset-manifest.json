@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/WK21-Game/static/js/main.141913e0.chunk.js",
+    "main.js.map": "/WK21-Game/static/js/main.141913e0.chunk.js.map",
+    "runtime-main.js": "/WK21-Game/static/js/runtime-main.44e72837.js",
+    "runtime-main.js.map": "/WK21-Game/static/js/runtime-main.44e72837.js.map",
+    "static/js/2.3e0f72a4.chunk.js": "/WK21-Game/static/js/2.3e0f72a4.chunk.js",
+    "static/js/2.3e0f72a4.chunk.js.map": "/WK21-Game/static/js/2.3e0f72a4.chunk.js.map",
+    "static/js/3.5e41dc89.chunk.js": "/WK21-Game/static/js/3.5e41dc89.chunk.js",
+    "static/js/3.5e41dc89.chunk.js.map": "/WK21-Game/static/js/3.5e41dc89.chunk.js.map",
+    "index.html": "/WK21-Game/index.html",
+    "static/js/2.3e0f72a4.chunk.js.LICENSE.txt": "/WK21-Game/static/js/2.3e0f72a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e72837.js",
+    "static/js/2.3e0f72a4.chunk.js",
+    "static/js/main.141913e0.chunk.js"
+  ]
+}
